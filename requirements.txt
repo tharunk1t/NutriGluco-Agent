@@ -1,0 +1,15 @@
+# Core
+python>=3.8
+transformers>=4.30.0
+torch
+sentence-transformers
+faiss-cpu
+langchain>=0.3.0
+langchain-community
+gradio
+fastapi
+uvicorn[standard]
+huggingface_hub
+pandas
+tqdm
+pickle5
